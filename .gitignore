@@ -1,0 +1,7 @@
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.csproj.user
+*.csv
